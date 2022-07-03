@@ -1,8 +1,8 @@
 import java.util.* ;
 import java.io.*; 
-public class Solution 
+public class Sort012 
 {
-    public static void sort012(int[] arr)
+    public static void sortColors(int[] arr)
     {
         //Write your code here
         int n = arr.length;
